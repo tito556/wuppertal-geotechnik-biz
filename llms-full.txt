@@ -1,0 +1,40 @@
+# Geotechnik — Wuppertal
+
+> Geotechnical engineering services in Wuppertal, Deutschland.
+
+## Services
+- [Anker](https://wuppertal.geotechnik.biz/anker/)
+- [Aushub](https://wuppertal.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://wuppertal.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://wuppertal.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://wuppertal.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://wuppertal.geotechnik.biz/boschungsstabilitat/)
+- [Cpt Versuch](https://wuppertal.geotechnik.biz/cpt-versuch/)
+- [Fundamente](https://wuppertal.geotechnik.biz/fundamente/)
+- [Geophysik](https://wuppertal.geotechnik.biz/geophysik/)
+- [Grundungen](https://wuppertal.geotechnik.biz/grundungen/)
+- [Hange](https://wuppertal.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://wuppertal.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://wuppertal.geotechnik.biz/injektionen/)
+- [Labor](https://wuppertal.geotechnik.biz/labor/)
+- [Labor In Situ](https://wuppertal.geotechnik.biz/labor-in-situ/)
+- [Masw](https://wuppertal.geotechnik.biz/masw/)
+- [Ruttelverdichtung](https://wuppertal.geotechnik.biz/ruttelverdichtung/)
+- [Schottersaulen](https://wuppertal.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://wuppertal.geotechnik.biz/schurfgruben/)
+- [Seismik](https://wuppertal.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://wuppertal.geotechnik.biz/seismische-mikrozonierung/)
+- [Spt Bohrung](https://wuppertal.geotechnik.biz/spt-bohrung/)
+- [Tiefe Aushube](https://wuppertal.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://wuppertal.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://wuppertal.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://wuppertal.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://wuppertal.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://wuppertal.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://wuppertal.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Wuppertal, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
